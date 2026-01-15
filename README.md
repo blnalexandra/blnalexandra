@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd year computer science student at the University of Bucharest<br>Learning AI & ML<br>Mostly using C++ and Python
+2nd year computer science student at the University of Bucharest<br>Learning AI & ML<br>Currently on CNNs
 
 
 ## 🌐 Socials:
